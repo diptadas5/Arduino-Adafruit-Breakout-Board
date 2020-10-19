@@ -14,7 +14,7 @@
 
 * After drawing the schematic, the floorplan of the board is next. This is where the floorplan was layed out on a physical board.
 
-![Floorplan}(https://github.com/diptadas5/Arduino-Adafruit-Breakout-Board/blob/master/photos/BreakoutBoardBlueprint.PNG)
+![Floorplan](https://github.com/diptadas5/Arduino-Adafruit-Breakout-Board/blob/master/photos/BreakoutBoardBlueprint.PNG)
 
 # Finished Product
 
